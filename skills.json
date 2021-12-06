@@ -1,0 +1,13 @@
+{
+	"Git":"GitHub/GitBash",
+	"API":"Postman",
+	"Dev Tools":"Google Chrome/FireFox",
+	"Sniffing":"Charles/Fiddler",
+	"Web testing":"HTTP/JSON/XML",
+	"Mobile testing":"Android Studio/XCode",
+	"SQL":"create/delete/drop/insert into/select/from/where/join",
+	"DB":"Postgres/Redis",
+	"Load testing":"Jmeter",
+	"Programming language":"Python"
+}
+
