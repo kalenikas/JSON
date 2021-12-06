@@ -9,11 +9,11 @@
 "Actual result":
 { 
 "1":"Сайт http://www.15gp.by/ переключен на English version",
-"2":"Отсутствует кнопка "Order card to the doctor online""
+"2":"Отсутствует кнопка 'Order card to the doctor online'"
 }
 "Expected result":
 {
 "1":"Сайт http://www.15gp.by/ переключен на English version",
-"2":"Наличие кнопки "Order card to the doctor online""
+"2":"Наличие кнопки 'Order card to the doctor online'"
 }
 }
